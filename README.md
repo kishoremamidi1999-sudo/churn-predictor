@@ -102,4 +102,5 @@ streamlit run src/app.py
 ## Author
 
 **Kishore Mamidi**  
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • [GitHub](https://github.com/kishoremamidi1999-sudo)
+LinkedIn : www.linkedin.com/in/kishorereddy1999 
+GitHub   : kishoremamidi1999
