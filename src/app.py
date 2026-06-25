@@ -120,6 +120,7 @@ if st.button("🔍 Predict"):
         st.error(f"⚠️ This customer is **likely to churn** - {probability:.1%} risk")
     else:
         st.success(f"✅ This customer is **not likely to stay** - only {probability:.1%} churn risk")
+
         
         st.caption(f"Model confidence: {max(probability, 1 - probability):.1%}")
         
